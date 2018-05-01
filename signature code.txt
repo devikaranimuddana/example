@@ -1,0 +1,38 @@
+<html>
+     <head></head>
+              <body>
+        <table style="border: 0px">
+            <tbody>
+                <tr>
+                    <td style="font-size: 15px; font-family: Calibri;" valign="top" align="left"><b>Devika Muddana</b><br/>
+                       <span style="font-size: 14px"> SOFTWARE TRAINEE -ITG101
+                        </span>
+                    </td>
+                    <td width="80"></td>
+                    <td align="right"><a href="http://www.miraclesoft.com" target="blank"><img src="http://www.miraclesoft.com/images/newsletters/miracle-logo-dark1.png" alt="logo"/></a></td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        <hr/>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-size: 14px; font-family: Calibri;" valign="top" align="left"><b>Phone&nbsp;:&nbsp;</b>(898)-535-5103<br/>
+                        <b>Mobile&nbsp;:&nbsp;</b>(898)-535-5103<br/>
+                        <b>Email&nbsp;:&nbsp;</b><a href="mailto:dmuddana@miraclesoft.com" target="blank">dmuddana@miraclesoft.com</a><br/>
+<table style="margin-top:3px;" ><tr><td>                        <a href="https://www.facebook.com/miracle45625/" target="blank" style="color:#ef4048; text-decoration: none;"><img src="http://www.miraclesoft.com/images/newsletters/facebook1.png"/></a></td>
+<td>                       <a href="https://plus.google.com/+Team_MSS" target="blank" style="color:#ef4048; text-decoration: none;"><img src="http://www.miraclesoft.com/images/newsletters/googleplus1.png"/></a></td>
+<td>                        <a href="https://www.linkedin.com/company/miracle-software-systems-inc" target="blank" style="color:#ef4048; text-decoration: none;"><img src="http://www.miraclesoft.com/images/newsletters/Linkedin1.png"/></a></td>
+<td>                        <a href="https://www.youtube.com/c/Team_MSS" target="blank" style="color:#ef4048; text-decoration: none;"><img src="http://www.miraclesoft.com/images/newsletters/youtube1.png"/></a></td>
+<td>                        <a href="https://twitter.com/Team_MSS" target="blank" style="color:#ef4048; text-decoration: none;"><img src="http://www.miraclesoft.com/images/newsletters/Twitter1.png"/></a></td>
+</tr></table>                    </td>
+                    <td width="80"></td>
+                    <td style="font-size:14px; font-family: calibri" valign="top" align="right">
+                    Miracle Heights – APAC HQ<br/>
+                    Hill No. 1, IT SEZ, Chinna Rushi Konda<br/>
+                    Visakhapatnam, AP - 530045, India <br/>
+                    <a href="http://www.miraclesoft.com" target="blank">www.miraclesoft.com</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table></body></html> 
